@@ -1,7 +1,7 @@
 This repository consists of all supplementary materials for understanding the 
 realization of algorithms that are used in the master's thesis.
 
-All Jupyter Notebook files consists of the description and comments of the code in 
+All Jupyter Notebook files consist of the description and comments of the code in 
 Russian but this README file makes the same things in English. 
 
 The structure of the materials is following:
